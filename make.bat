@@ -1,0 +1,1 @@
+fyne package -os windows -appID br.com.matheusalves.tecladolindinho -release -icon icon.jpg
